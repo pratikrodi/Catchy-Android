@@ -17,13 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 
 **Images**
+![Screenshot (18).png](android%2FImages%2FScreenshot%20%2818%29.png)
 
+![Screenshot (19).png](android%2FImages%2FScreenshot%20%2819%29.png)
 
-Screenshot (19).png
+![Screenshot (20).png](android%2FImages%2FScreenshot%20%2820%29.png)
 
-Screenshot (20).png
-
-Screenshot (21).png
-![](Images/Screenshot (18).png)
-![](../../Pictures/Screenshots/Screenshot (19).png)
-![](../../Pictures/Screenshots/Screenshot (21).png)
+![Screenshot (21).png](android%2FImages%2FScreenshot%20%2821%29.png)
