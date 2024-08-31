@@ -2,7 +2,6 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="Catchy.catchy_android" target="17" />
       <module name="Catchy.mylibrary" target="17" />
     </bytecodeTargetLevel>
   </component>
